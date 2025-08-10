@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/tictactoe-using-react/static/css/main.ec40fe21.css",
+    "main.js": "/tictactoe-using-react/static/js/main.bd7233f3.js",
+    "static/js/453.6cb66393.chunk.js": "/tictactoe-using-react/static/js/453.6cb66393.chunk.js",
+    "static/media/cross.png": "/tictactoe-using-react/static/media/cross.059f9ebda9cabef2056b.png",
+    "static/media/circle.png": "/tictactoe-using-react/static/media/circle.61012fc0c5a9f9ce7341.png",
+    "index.html": "/tictactoe-using-react/index.html",
+    "main.ec40fe21.css.map": "/tictactoe-using-react/static/css/main.ec40fe21.css.map",
+    "main.bd7233f3.js.map": "/tictactoe-using-react/static/js/main.bd7233f3.js.map",
+    "453.6cb66393.chunk.js.map": "/tictactoe-using-react/static/js/453.6cb66393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec40fe21.css",
+    "static/js/main.bd7233f3.js"
+  ]
+}
